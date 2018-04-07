@@ -25,7 +25,7 @@ body, html {
     /* Add a white text color to all elements inside the .bgimg container */
     color: white;
     /* Add a font */
-    font-family: Helvetica, sans-serif;
+    font-family: Courier, sans-serif;
     /* Set the font-size to 25 pixels */
     font-size: 25px;
 
