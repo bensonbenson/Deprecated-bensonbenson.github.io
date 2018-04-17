@@ -7,7 +7,7 @@ var imageURLS = [
 
 function getURL() {
     var img = 'background src=\"';
-    var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    var randomIndex = Math.floor(Math.random() * imageURLs.length + 1);
     img += imageURLs[randomIndex];
     img += '/>';
     document.getElementById('background').innerHTML = img;
