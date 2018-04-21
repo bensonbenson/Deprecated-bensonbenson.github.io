@@ -1,16 +1,16 @@
-/*body, html {*/
-    /*!* Background image *!*/
-    /*background-image: url('/img/background.jpg');*/
-    /*!* Center the background image *!*/
-    /*background-position: center;*/
-    /*!* Scale and zoom in the image *!*/
-    /*background-size: cover;*/
+body, html {
+    /* Background image */
+    background-image: url('/img/background.jpg');
+    /* Center the background image */
+    background-position: center;
+    /* Scale and zoom in the image */
+    background-size: cover;
 
-    /*height: 100%;*/
+    height: 100%;
 
-    /*overflow-x: hidden;*/
-    /*overflow-y: hidden;*/
-/*}*/
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
 
 .bgimg {
 
