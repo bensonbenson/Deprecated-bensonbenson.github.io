@@ -1,4 +1,4 @@
-# Work in progress website
+# Deprecated, replaced with updated GitHub Pages Site
 Placeholder
 
 TODO:
